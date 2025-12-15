@@ -1,0 +1,460 @@
+[
+      {
+      "Title": "Project Hail Mary",
+      "Author": "Andy Weir",
+      "Rating": 4.8,
+      "Genre": "Sci-Fi",
+      "Summary": "Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780593135204-L.jpg"
+    },
+    {
+      "Title": "The Midnight Library",
+      "Author": "Matt Haig",
+      "Rating": 4.1,
+      "Genre": "Fiction",
+      "Summary": "Nora Seed finds herself in a strange library where each book represents a different version of her life.",
+      "CoverUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Atomic Habits",
+      "Author": "James Clear",
+      "Rating": 4.9,
+      "Genre": "Non-Fiction",
+      "Summary": "No matter your goals, Atomic Habits offers a proven framework for improving--every day.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg"
+    },
+    {
+      "Title": "Dune",
+      "Author": "Frank Herbert",
+      "Rating": 4.6,
+      "Genre": "Sci-Fi",
+      "Summary": "When his family takes control of the dangerous desert planet Arrakis, Paul Atreides becomes entangled in political betrayal.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg"
+    },
+    {
+      "Title": "The Silent Patient",
+      "Author": "Alex Michaelides",
+      "Rating": 4.2,
+      "Genre": "Thriller",
+      "Summary": "A criminal psychotherapist becomes obsessed with uncovering the truth behind a woman who murdered her husband.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781250301697-L.jpg"
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Rating": 4.7,
+      "Genre": "Romance",
+      "Summary": "Elizabeth Bennet navigates family pressure, social expectations, and her own prejudices as she clashes with Mr. Darcy.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg"
+    },
+    {
+      "Title": "Educated",
+      "Author": "Tara Westover",
+      "Rating": 4.5,
+      "Genre": "Non-Fiction",
+      "Summary": "Born to survivalists in the mountains of Idaho, Tara Westover was seventeen the first time she set foot in a classroom.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780399590504-L.jpg"
+    },
+    {
+      "Title": "Circe",
+      "Author": "Madeline Miller",
+      "Rating": 4.3,
+      "Genre": "Fantasy",
+      "Summary": "In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780316556347-L.jpg"
+    },
+    {
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Rating": 4.6,
+      "Genre": "Sci-Fi",
+      "Summary": "In a society ruled by constant surveillance and manipulated truth, a man quietly rebels against an authoritarian regime.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg"
+    },
+    {
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Rating": 4.4,
+      "Genre": "Fiction",
+      "Summary": "Through the eyes of Nick Carraway, the story explores obsession, illusion, and moral decay among the wealthy elite.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780743273565-L.jpg"
+    },
+    {
+      "Title": "Dark Matter",
+      "Author": "Blake Crouch",
+      "Rating": 4.5,
+      "Genre": "Thriller",
+      "Summary": "Jason Dessen is walking home through the chilly Chicago streets one night when his reality shatters.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781101904220-L.jpg"
+    },
+    {
+      "Title": "Becoming",
+      "Author": "Michelle Obama",
+      "Rating": 4.8,
+      "Genre": "Non-Fiction",
+      "Summary": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic women of our era.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781524763138-L.jpg"
+    },
+    {
+      "Title": "The Name of the Wind",
+      "Author": "Patrick Rothfuss",
+      "Rating": 4.7,
+      "Genre": "Fantasy",
+      "Summary": "Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be a notorious wizard.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780756404741-L.jpg"
+    },
+    {
+      "Title": "Gone Girl",
+      "Author": "Gillian Flynn",
+      "Rating": 4.1,
+      "Genre": "Thriller",
+      "Summary": "When a woman disappears under suspicious circumstances, the investigation exposes dark secrets.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780307588371-L.jpg"
+    },
+    {
+      "Title": "The Alchemist",
+      "Author": "Paulo Coelho",
+      "Rating": 4.3,
+      "Genre": "Fiction",
+      "Summary": "A young shepherd sets out on a journey that teaches him about listening to his heart.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg"
+    },
+    {
+      "Title": "Red, White & Royal Blue",
+      "Author": "Casey McQuiston",
+      "Rating": 4.4,
+      "Genre": "Romance",
+      "Summary": "First Son Alex Claremont-Diaz is the closest thing to a prince this side of the Atlantic.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781250316776-L.jpg"
+    },
+    {
+      "Title": "Sapiens",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.6,
+      "Genre": "Non-Fiction",
+      "Summary": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg"
+    },
+    {
+      "Title": "A Court of Thorns and Roses",
+      "Author": "Sarah J. Maas",
+      "Rating": 4.5,
+      "Genre": "Fantasy",
+      "Summary": "Feyre's survival rests upon her ability to hunt and kill – the forest where she lives is a cold, bleak place.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781635575569-L.jpg"
+    },
+    {
+      "Title": "Steve Jobs",
+      "Author": "Walter Isaacson",
+      "Rating": 4.7,
+      "Genre": "Non-Fiction",
+      "Summary": "Based on more than forty interviews with Jobs conducted over two years.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781451648539-L.jpg"
+    },
+    {
+      "Title": "It Ends with Us",
+      "Author": "Colleen Hoover",
+      "Rating": 4.3,
+      "Genre": "Romance",
+      "Summary": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781501110368-L.jpg"
+    },
+  
+  
+    {
+      "Title": "The Quantum Gardener",
+      "Author": "Anya Sharma",
+      "Rating": 4.8,
+      "Genre": "Sci-Fi",
+      "Summary": "A humble gardener on a space station discovers a new species that communicates through shared dreams.",
+      "CoverUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Echoes of the Forgotten",
+      "Author": "Liam O'Connell",
+      "Rating": 4.5,
+      "Genre": "Fantasy",
+      "Summary": "A young bard finds a cursed lute that allows him to hear the final memories of the dead.",
+      "CoverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Midnight Protocol",
+      "Author": "Kaito Tanaka",
+      "Rating": 4.7,
+      "Genre": "Thriller",
+      "Summary": "A disgraced former cyber-security expert is forced back into the shadowy world of hacking.",
+      "CoverUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Scent of Rain",
+      "Author": "Elena Rodriguez",
+      "Rating": 4.6,
+      "Genre": "Romance",
+      "Summary": "Two rival perfumers in Paris collaborate on a signature scent for a royal wedding.",
+      "CoverUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Zero Point",
+      "Author": "Dr. Aris Thorne",
+      "Rating": 4.9,
+      "Genre": "Non-Fiction",
+      "Summary": "A groundbreaking and accessible exploration of zero-point energy.",
+      "CoverUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Glass Constellation",
+      "Author": "Seraphina Vane",
+      "Rating": 4.4,
+      "Genre": "Fantasy",
+      "Summary": "In a city built entirely of magically reinforced glass, a young glazier's apprentice discovers a fracture.",
+      "CoverUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Binary Soul",
+      "Author": "Marcus J. Lee",
+      "Rating": 4.3,
+      "Genre": "Sci-Fi",
+      "Summary": "In a future where human consciousness can be uploaded to the cloud, a detective investigates digital murder.",
+      "CoverUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Last Ember",
+      "Author": "Nia Imani",
+      "Rating": 4.7,
+      "Genre": "Fantasy",
+      "Summary": "In a world plunged into eternal winter, a young woman discovers she possesses the last spark of fire.",
+      "CoverUrl": "https://images.unsplash.com/photo-1476158085676-e67f57ed9ed7?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Dead Air",
+      "Author": "Sarah Jenkins",
+      "Rating": 4.2,
+      "Genre": "Thriller",
+      "Summary": "A late-night radio host starts receiving calls from a listener who claims to be reporting murders.",
+      "CoverUrl": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Orbiting You",
+      "Author": "Leo Kim",
+      "Rating": 4.5,
+      "Genre": "Romance",
+      "Summary": "An astrophysicist and a botanist find love on a remote space station.",
+      "CoverUrl": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Sapiens 2.0",
+      "Author": "Yuval Noah Harari (AI)",
+      "Rating": 4.8,
+      "Genre": "Non-Fiction",
+      "Summary": "A speculative look at the next stage of human evolution and biotechnology.",
+      "CoverUrl": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Silent Note",
+      "Author": "Emily Chen",
+      "Rating": 4.4,
+      "Genre": "Thriller",
+      "Summary": "A deaf musician witnesses a murder but cannot identify the killer by sound.",
+      "CoverUrl": "https://images.unsplash.com/photo-1552422535-c45813c61732?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Clockwork Heart",
+      "Author": "Arthur Pendelton",
+      "Rating": 4.6,
+      "Genre": "Fantasy",
+      "Summary": "In a steampunk version of Victorian London, an automaton develops genuine human emotions.",
+      "CoverUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Project Chimera",
+      "Author": "Dr. Evelyn Reed",
+      "Rating": 4.3,
+      "Genre": "Sci-Fi",
+      "Summary": "A geneticist suspects her super-soldier subjects are rapidly evolving beings with their own agenda.",
+      "CoverUrl": "https://images.unsplash.com/photo-1579154204601-01588f351e67?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Coffee & Cigarettes",
+      "Author": "Jack Kerouac (AI)",
+      "Rating": 4.1,
+      "Genre": "Fiction",
+      "Summary": "A raw narrative of disillusioned artists in 1950s New York City.",
+      "CoverUrl": "https://images.unsplash.com/photo-1517705008128-361805f42e86?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Memory Market",
+      "Author": "Sofia Petrova",
+      "Rating": 4.7,
+      "Genre": "Sci-Fi",
+      "Summary": "In a future where memories can be bought and sold, a 'memory thief' uncovers a conspiracy.",
+      "CoverUrl": "https://images.unsplash.com/photo-1480796927426-f609979314bd?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Crimson Sails",
+      "Author": "Captain Elias Thorne",
+      "Rating": 4.5,
+      "Genre": "Fantasy",
+      "Summary": "A high-seas adventure in a world of floating islands and sky-pirates.",
+      "CoverUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Algorithm of Love",
+      "Author": "Chloe Davis",
+      "Rating": 4.2,
+      "Genre": "Romance",
+      "Summary": "A cynical app developer creates a dating algorithm that matches her with her complete opposite.",
+      "CoverUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Deep Fake Truth",
+      "Author": "Mark Zuckerberg (AI)",
+      "Rating": 4.0,
+      "Genre": "Non-Fiction",
+      "Summary": "An exploration of the world of deepfakes, synthetic media, and the future of truth.",
+      "CoverUrl": "https://images.unsplash.com/photo-1506702315536-dd8b83e2dcf9?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Forgotten Garden",
+      "Author": "Isabella Rossi",
+      "Rating": 4.6,
+      "Genre": "Fiction",
+      "Summary": "A woman inherits an abandoned estate in Italy and uncovers family secrets.",
+      "CoverUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "The Three-Body Problem",
+      "Author": "Liu Cixin",
+      "Rating": 4.6,
+      "Genre": "Sci-Fi",
+      "Summary": "A secret military experiment makes contact with an alien civilization.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780765377067-L.jpg"
+    },
+    {
+      "Title": "Recursion",
+      "Author": "Blake Crouch",
+      "Rating": 4.5,
+      "Genre": "Sci-Fi",
+      "Summary": "A mysterious technology that allows people to relive memories begins to fracture reality.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781524759780-L.jpg"
+    },
+    {
+      "Title": "Neuromancer",
+      "Author": "William Gibson",
+      "Rating": 4.4,
+      "Genre": "Sci-Fi",
+      "Summary": "A washed-up hacker is hired for one last dangerous job.",
+      "CoverUrl": "https://images.unsplash.com/photo-1515630278258-407f66498911?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Snow Crash",
+      "Author": "Neal Stephenson",
+      "Rating": 4.3,
+      "Genre": "Sci-Fi",
+      "Summary": "In a hyper-commercialized future, a pizza-delivering hacker uncovers a virtual virus.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780553380958-L.jpg"
+    },
+    {
+      "Title": "The Way of Kings",
+      "Author": "Brandon Sanderson",
+      "Rating": 4.8,
+      "Genre": "Fantasy",
+      "Summary": "On a war-torn world, several broken individuals struggle with survival.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780765326355-L.jpg"
+    },
+    {
+      "Title": "Mistborn: The Final Empire",
+      "Author": "Brandon Sanderson",
+      "Rating": 4.7,
+      "Genre": "Fantasy",
+      "Summary": "In a world ruled by an immortal tyrant, a group of rebels plans an impossible heist.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780765311788-L.jpg"
+    },
+    {
+      "Title": "The Lies of Locke Lamora",
+      "Author": "Scott Lynch",
+      "Rating": 4.6,
+      "Genre": "Fantasy",
+      "Summary": "A master thief leads an elite group of con artists through elaborate schemes.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780553588941-L.jpg"
+    },
+    {
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Rating": 4.8,
+      "Genre": "Fantasy",
+      "Summary": "A quiet hobbit is drawn into an unexpected adventure filled with dragons.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg"
+    },
+    {
+      "Title": "The Girl with the Dragon Tattoo",
+      "Author": "Stieg Larsson",
+      "Rating": 4.4,
+      "Genre": "Thriller",
+      "Summary": "A journalist and a brilliant hacker investigate a decades-old disappearance.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780307269751-L.jpg"
+    },
+    {
+      "Title": "Shutter Island",
+      "Author": "Dennis Lehane",
+      "Rating": 4.5,
+      "Genre": "Thriller",
+      "Summary": "Two U.S. marshals investigate a disappearance at a remote psychiatric facility.",
+      "CoverUrl": "https://images.unsplash.com/photo-1516410541193-6a5297327299?auto=format&fit=crop&q=80&w=600"
+    },
+    {
+      "Title": "Before I Go to Sleep",
+      "Author": "S.J. Watson",
+      "Rating": 4.2,
+      "Genre": "Thriller",
+      "Summary": "A woman with severe memory loss wakes up each day with no recollection of her past.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780062060556-L.jpg"
+    },
+    {
+      "Title": "Me Before You",
+      "Author": "Jojo Moyes",
+      "Rating": 4.4,
+      "Genre": "Romance",
+      "Summary": "A young woman takes a job caring for a man with a disability.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780670026609-L.jpg"
+    },
+    {
+      "Title": "The Hating Game",
+      "Author": "Sally Thorne",
+      "Rating": 4.3,
+      "Genre": "Romance",
+      "Summary": "Two office coworkers locked in a constant battle of passive-aggressive games.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780062439598-L.jpg"
+    },
+    {
+      "Title": "Normal People",
+      "Author": "Sally Rooney",
+      "Rating": 4.2,
+      "Genre": "Romance",
+      "Summary": "An intimate exploration of connection and miscommunication.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781984822178-L.jpg"
+    },
+    {
+      "Title": "Homo Deus",
+      "Author": "Yuval Noah Harari",
+      "Rating": 4.6,
+      "Genre": "Non-Fiction",
+      "Summary": "An examination of how technological and scientific advances may shape future goals.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780062464316-L.jpg"
+    },
+    {
+      "Title": "Thinking, Fast and Slow",
+      "Author": "Daniel Kahneman",
+      "Rating": 4.5,
+      "Genre": "Non-Fiction",
+      "Summary": "A deep dive into how humans think, explaining mental shortcuts and biases.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9780374275631-L.jpg"
+    },
+    {
+      "Title": "The Power of Habit",
+      "Author": "Charles Duhigg",
+      "Rating": 4.4,
+      "Genre": "Non-Fiction",
+      "Summary": "An exploration of how habits form and how understanding them leads to change.",
+      "CoverUrl": "https://covers.openlibrary.org/b/isbn/9781400069286-L.jpg"
+    }
+  ]
