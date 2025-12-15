@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore, collection, getDocs, doc, getDoc } from "firebase/firestore";
 
-// Your exact config
+// My firebase config
 const firebaseConfig = {
   apiKey: "AIzaSyCLvkNZnQQOMrOGSADzJzy3_wgcJjUdhuQ",
   authDomain: "goodreads-redesign-b66e9.firebaseapp.com",
