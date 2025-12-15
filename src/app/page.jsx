@@ -29,7 +29,10 @@ export default async function Home() {
       </section>
 
       {/* The Dashboard Layout (Client Component) */}
-      <HomeFeed books={books} />
+      <Suspense fallback={<div className="p-8 text-white">Loading…</div>}>
+        <HomeFeed books={books} />
+      </Suspense>
+
     </main>
   );
 }

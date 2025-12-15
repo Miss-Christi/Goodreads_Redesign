@@ -20,9 +20,17 @@ export default function HomeFeed({ books }) {
   // Logic: Filter by Genre AND Search Query
   const displayBooks = books.filter(book => {
     const matchesGenre = activeGenre === "All" || book.Genre === activeGenre;
-    const matchesSearch = !searchQuery || 
-      book.Title.toLowerCase().includes(searchQuery) || 
-      book.Author.toLowerCase().includes(searchQuery);
+  
+    const title =
+      typeof book.Title === 'string' ? book.Title.toLowerCase() : '';
+    const author =
+      typeof book.Author === 'string' ? book.Author.toLowerCase() : '';
+  
+    const matchesSearch =
+      !searchQuery ||
+      title.includes(searchQuery) ||
+      author.includes(searchQuery);
+  
     return matchesGenre && matchesSearch;
   });
 
