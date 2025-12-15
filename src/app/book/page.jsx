@@ -1,3 +1,5 @@
+'use client';
+
 import { getBook, getBooks } from '@/lib/firebase';
 import Image from 'next/image';
 import Link from 'next/link';
